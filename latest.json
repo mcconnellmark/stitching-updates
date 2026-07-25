@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "download_url": "https://github.com/mcconnellmark/stitching-updates/releases/download/v1.1.0/StitchingPortable.zip",
+  "notes": [
+    "Supplier-mismatch pre-dispatch gate at change preview",
+    "Save-As download prompt in the portable app",
+    "Manual Sales Review pipeline",
+    "Tax Holiday full-catalog xlsx + variation-limit split"
+  ],
+  "published": "2026-07-25"
+}
